@@ -1,6 +1,8 @@
 Mihnea Simian
 =============
 
+.. image:: mihnea_simian_pic.jpg
+
 Summary
 ---------
 
