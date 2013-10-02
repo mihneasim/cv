@@ -6,6 +6,10 @@ Mihnea Simian
 Summary
 ---------
 
+Full stack webdeveloper with an eye for details, but backend guy mostly. Love
+talking to customers, building together added value and making sure we
+achieve our goals by high quality management.
+
 Experience
 -----------
 
@@ -61,6 +65,16 @@ University Politehnica of Bucharest
 Skills
 ------
 
+    Backend web-developing
+
+* Python_, Zope_, Django_, Flask_
+* mongoDB_, ZODB_, OpenLDAP_
+
+    Devs and DevOps Tools
+
+* git_, Subversion_, git-svn
+* Fabric_, Supervisor_, virtualenv_, South_
+
 Own work
 --------
 
@@ -78,3 +92,12 @@ References
 .. _Naaya: http://naaya.eaudeweb.ro/
 .. _Flask: http://flask.pocoo.org/
 .. _uberVU: https://www.ubervu.com/
+.. _mongoDB: http://www.mongodb.org/
+.. _ZODB: http://www.zodb.org/
+.. _OpenLDAP: http://www.openldap.org/
+.. _git: http://git-scm.com/
+.. _Subversion: http://subversion.tigris.org/
+.. _Fabric: http://fabfile.org
+.. _Supervisor: http://supervisord.org/
+.. _South: http://south.aeracode.org/
+.. _virtualenv: http://www.virtualenv.org/
