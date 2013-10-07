@@ -8,7 +8,7 @@ Summary
 
 Full stack webdeveloper with an eye for details, but backend guy mostly. Love
 talking to customers, building together added value and making sure we
-achieve our goals by high quality management.
+achieve our goals by high quality management and execution.
 
 Experience
 -----------
@@ -18,7 +18,12 @@ Software Engineer, `Eau de Web`_
 
     Feb 2011 - Present
 
-* Backend web development (Python_, Django_, Flask_, Zope_)
+* Backend web development (Python_, Zope_, Django_, Flask_)
+* IT Infrastructure for Eionet_ (various UNIX Services, LDAP,
+  proprietary infrastructure solutions)
+* Oct 2012 - Feb 2013: in-house consultancy in Copenhagen for OSE3_
+  (IT networking and public systems) department of the EEA_
+* basic project management with team of 2 - 3 members and one product owner
 
 Intern, `Eau de Web`_
 ++++++++++++++++++++++
@@ -26,8 +31,8 @@ Intern, `Eau de Web`_
     Jul 2010 - Sep 2010
 
 * Backend web development (Python_, Zope_, Naaya_), deployment, quality
-  assurance, software documenting, team member (code review, code
-  versioning, deployment procedures)
+  assurance, software documenting, team member (code review, code documentation,
+  code versioning), deployment procedures
 
 Intern, uberVU_
 +++++++++++++++
@@ -65,16 +70,16 @@ University Politehnica of Bucharest
 Skills
 ------
 
-    Backend web-developing
+  Backend web-developing
 
 * Python_, Zope_, Django_, Flask_
 * mongoDB_, ZODB_, OpenLDAP_
 
-
-    Devs and DevOps Tools
+  Devs and DevOps Tools
 
 * git_, Subversion_, git-svn
 * Fabric_, Supervisor_, virtualenv_, South_
+* Jenkins_
 
 Own work
 --------
@@ -85,7 +90,9 @@ Other info
 References
 ----------
 
-
+.. _OSE3: http://www.eea.europa.eu/about-us/who/organisational-chart
+.. _EEA: http://www.eea.europa.eu
+.. _Eionet: http://www.eionet.europa.eu/
 .. _`Eau de Web`: http://eaudeweb.ro
 .. _Python: http://python.org
 .. _Django: https://www.djangoproject.com/
@@ -102,3 +109,4 @@ References
 .. _Supervisor: http://supervisord.org/
 .. _South: http://south.aeracode.org/
 .. _virtualenv: http://www.virtualenv.org/
+.. _Jenkins: http://jenkins-ci.org/
