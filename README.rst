@@ -84,11 +84,21 @@ Skills
 Own work
 --------
 
+`ikonom.ro`_
+#############
+
+* Romanian webapp analyzes electronic bank statements and
+  adds semantics to expenses
+* cofounder, full technical development and user engagement
+
+
 Other info
 ----------
 
 References
 ----------
+
+* Mesimian_ - personal blog
 
 .. _OSE3: http://www.eea.europa.eu/about-us/who/organisational-chart
 .. _EEA: http://www.eea.europa.eu
@@ -110,3 +120,5 @@ References
 .. _South: http://south.aeracode.org/
 .. _virtualenv: http://www.virtualenv.org/
 .. _Jenkins: http://jenkins-ci.org/
+.. _`ikonom.ro`: http://ikonom.ro
+.. _Mesimian: http://mesimian.com
