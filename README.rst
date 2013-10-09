@@ -110,11 +110,10 @@ References
 * Foursquare_
 
 References available upon request from the persons that managed my internships
-or from people I currently interact with:
-
-Miruna, Andrei, Cornel - Eau de Web managers or partners in personal projects
-Franz - Project Manager at the European Environment Agency
-Søren - IT Leader at the European Environment Agency
+or from people I currently interact with: Miruna, Andrei, Cornel
+- Eau de Web managers or partners in personal projects;
+Franz - Project Manager at the European Environment Agency;
+Søren - IT Leader at the European Environment Agency;
 Vladimir, Dan and Dragos - uberVU co-founders
 
 .. _OSE3: http://www.eea.europa.eu/about-us/who/organisational-chart
