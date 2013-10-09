@@ -103,6 +103,19 @@ References
 ----------
 
 * Mesimian_ - personal blog
+* Linkedin_
+* Github_
+* `this CV`_
+* Facebook_
+* Foursquare_
+
+References available upon request from the persons that managed my internships
+or from people I currently interact with:
+
+Miruna, Andrei, Cornel - Eau de Web managers or partners in personal projects
+Franz - Project Manager at the European Environment Agency
+Søren - IT Leader at the European Environment Agency
+Vladimir, Dan and Dragos - uberVU co-founders
 
 .. _OSE3: http://www.eea.europa.eu/about-us/who/organisational-chart
 .. _EEA: http://www.eea.europa.eu
@@ -126,3 +139,8 @@ References
 .. _Jenkins: http://jenkins-ci.org/
 .. _`ikonom.ro`: http://ikonom.ro
 .. _Mesimian: http://mesimian.com
+.. _Linkedin: http://ro.linkedin.com/in/mihneasimian/
+.. _Facebook: http://facebook.com/mihneasim
+.. _Foursquare: https://foursquare.com/mihneasim
+.. _Github: github.com/mihneasim
+.. _`this CV`: https://github.com/mihneasim/cv
