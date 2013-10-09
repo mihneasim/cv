@@ -85,7 +85,7 @@ Own work
 --------
 
 `ikonom.ro`_
-#############
++++++++++++++
 
 * Romanian webapp analyzes electronic bank statements and
   adds semantics to expenses
