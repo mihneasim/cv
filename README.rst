@@ -141,5 +141,5 @@ Vladimir, Dan and Dragos - uberVU co-founders
 .. _Linkedin: http://ro.linkedin.com/in/mihneasimian/
 .. _Facebook: http://facebook.com/mihneasim
 .. _Foursquare: https://foursquare.com/mihneasim
-.. _Github: github.com/mihneasim
+.. _Github: https://github.com/mihneasim
 .. _`this CV`: https://github.com/mihneasim/cv
