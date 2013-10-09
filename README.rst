@@ -95,6 +95,10 @@ Own work
 Other info
 ----------
 
+* fast learner, solving complex problems, analytical thinking
+* passionate of film photography, stock photos, gym
+* highly sociable, always got along very well with all mates
+
 References
 ----------
 
