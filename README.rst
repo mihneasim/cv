@@ -89,7 +89,7 @@ Own work
 
 * Romanian webapp analyzes electronic bank statements and
   adds semantics to expenses
-* cofounder, full technical development and user engagement
+* co-founder, technical development and product management
 
 
 Other info
