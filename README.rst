@@ -1,11 +1,11 @@
 Mihnea Simian
 =============
 
-.. image:: mihnea_simian_pic.jpg
+.. image:: static/mihnea_simian_pic.jpg
     :scale: 50 %
     :align: left
 
-.. image:: contact_details.jpg
+.. image:: static/contact_details.jpg
 
 
 Summary
