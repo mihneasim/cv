@@ -2,6 +2,11 @@ Mihnea Simian
 =============
 
 .. image:: mihnea_simian_pic.jpg
+    :scale: 50 %
+    :align: left
+
+.. image:: contact_details.jpg
+
 
 Summary
 ---------
