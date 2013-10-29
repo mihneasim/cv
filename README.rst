@@ -75,16 +75,21 @@ University Politehnica of Bucharest
 Skills
 ------
 
-  Backend web-developing
+  Web-developing
 
-* Python_, Zope_, Django_, Flask_
-* mongoDB_, ZODB_, OpenLDAP_
+* Python_, Zope_, Django_, Flask_; Bash scripting, PHP_
+* mongoDB_, ZODB_, OpenLDAP_; MySQL_
+* JavaScript, jQuery_, XHTML, CSS
 
   Devs and DevOps Tools
 
 * git_, Subversion_, git-svn
-* Fabric_, Supervisor_, virtualenv_, South_
+* Fabric_, Supervisor_, virtualenv_, South_, Celery_
 * Jenkins_
+
+  Some experience in
+
+* C, Java
 
 Own work
 --------
@@ -134,6 +139,9 @@ Vladimir, Dan and Dragos - uberVU co-founders
 .. _mongoDB: http://www.mongodb.org/
 .. _ZODB: http://www.zodb.org/
 .. _OpenLDAP: http://www.openldap.org/
+.. _MySQL: http://www.mysql.com/
+.. _jQuery: http://jquery.com/
+.. _PHP: http://php.net/
 .. _git: http://git-scm.com/
 .. _Subversion: http://subversion.tigris.org/
 .. _Fabric: http://fabfile.org
@@ -141,6 +149,7 @@ Vladimir, Dan and Dragos - uberVU co-founders
 .. _South: http://south.aeracode.org/
 .. _virtualenv: http://www.virtualenv.org/
 .. _Jenkins: http://jenkins-ci.org/
+.. _Celery: http://www.celeryproject.org/
 .. _`ikonom.ro`: http://ikonom.ro
 .. _Mesimian: http://mesimian.com
 .. _Linkedin: http://ro.linkedin.com/in/mihneasimian/
