@@ -118,6 +118,7 @@ References
 * `this CV`_
 * Facebook_
 * Foursquare_
+* 10gen online courses certificates: `MongoDB DBA`_, `MongoDB dev`_
 
 References available upon request from the persons that managed my internships
 or from people I currently interact with: Miruna, Andrei, Cornel
@@ -157,3 +158,5 @@ Vladimir, Dan and Dragos - uberVU co-founders
 .. _Foursquare: https://foursquare.com/mihneasim
 .. _Github: https://github.com/mihneasim
 .. _`this CV`: https://github.com/mihneasim/cv
+.. _MongoDB DBA: https://github.com/mihneasim/cv/raw/master/static/refs/10gen_mongodb_dba_certificate.pdf
+.. _MongoDB dev: https://github.com/mihneasim/cv/raw/master/static/refs/10gen_mongodb_dev_certificate.pdf
