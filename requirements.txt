@@ -1,1 +1,2 @@
-rst2pdf==0.93.dev
+Pillow==2.3.0
+rst2pdf==0.93
