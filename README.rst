@@ -21,9 +21,9 @@ Experience
 Software Engineer, `Eau de Web`_
 +++++++++++++++++++++++++++++++++
 
-    Feb 2011 - Present
+    Feb 2011 - Dec 2013
 
-* Backend web development (Python_, Zope_, Django_, Flask_)
+* Backend web development (Python_, Zope_, Plone_, Django_, Flask_)
 * IT Infrastructure for Eionet_ (various UNIX Services, LDAP,
   proprietary infrastructure solutions)
 * Oct 2012 - Feb 2013: in-house consultancy in Copenhagen for OSE3_
@@ -134,6 +134,7 @@ Vladimir, Dan and Dragos - uberVU co-founders
 .. _Python: http://python.org
 .. _Django: https://www.djangoproject.com/
 .. _Zope: http://www.zope.org/
+.. _Plone: http://www.plone.org
 .. _Naaya: http://naaya.eaudeweb.ro/
 .. _Flask: http://flask.pocoo.org/
 .. _uberVU: https://www.ubervu.com/
