@@ -18,6 +18,16 @@ achieve our goals by high quality management and execution.
 Experience
 -----------
 
+Software Engineer, RTB operations
+++++++++++++++++++++++++++++++++++
+
+    Jan 2014 - present
+
+* Programmatic marketing software for self serving online campaigns
+* Web development (Django_, Tastypie_, AngularJS_)
+* Integration with various real time bidding adservers (appnexus_, IPONWEB_)
+
+
 Software Engineer, `Eau de Web`_
 +++++++++++++++++++++++++++++++++
 
@@ -161,3 +171,7 @@ Vladimir, Dan and Dragos - uberVU co-founders
 .. _`this CV`: https://github.com/mihneasim/cv
 .. _MongoDB DBA: https://github.com/mihneasim/cv/raw/master/static/refs/10gen_mongodb_dba_certificate.pdf
 .. _MongoDB dev: https://github.com/mihneasim/cv/raw/master/static/refs/10gen_mongodb_dev_certificate.pdf
+.. _AngularJS: https://angularjs.org/
+.. _Tastypie: https://django-tastypie.readthedocs.org/en/latest/
+.. _appnexus: http://appnexus.com/
+.. _IPONWEB: http://www.iponweb.com/
