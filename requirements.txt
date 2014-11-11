@@ -1,2 +1,2 @@
-Pillow==2.3.0
+Pillow==2.4.0
 rst2pdf==0.93
