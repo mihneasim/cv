@@ -115,6 +115,7 @@ Own work
 Other info
 ----------
 
+* some experience with nodejs, express, rabbitmq, meanjs_ stack
 * fast learner, solving complex problems, analytical thinking
 * passionate of film photography, stock photos, gym
 * highly sociable, always got along very well with all mates
@@ -175,3 +176,4 @@ Vladimir, Dan and Dragos - uberVU co-founders
 .. _Tastypie: https://django-tastypie.readthedocs.org/en/latest/
 .. _appnexus: http://appnexus.com/
 .. _IPONWEB: http://www.iponweb.com/
+.. _meanjs: http://www.meanjs.org/
