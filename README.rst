@@ -11,21 +11,27 @@ Mihnea Simian
 Summary
 ---------
 
-Full stack webdeveloper with an eye for details, but backend guy mostly. Love
+Full stack webdeveloper with an eye for details, transitioning from backend
+to frontend. Love
 talking to customers, building together added value and making sure we
 achieve our goals by high quality management and execution.
 
 Experience
 -----------
 
-Software Engineer, RTB operations
-++++++++++++++++++++++++++++++++++
+Software Engineer, Programmatic media trading
++++++++++++++++++++++++++++++++++++++++++++++
 
     Jan 2014 - present
 
-* Programmatic marketing software for self serving online campaigns
-* Web development (Django_, Tastypie_, AngularJS_)
+* Programmatic media selling platform
+* Web development, backend and frontend 80-20 % (Django_, Tastypie_, AngularJS_)
 * Integration with various real time bidding adservers (appnexus_, IPONWEB_)
+* Shaped up a new team to work using continuous integration methodologies
+  from 20 broken tests to 100+ passing tests
+* migrated data and remapped procedures for a robust architecture (merged
+  databases ensuring foreign key consistency and data de-duplication)
+* last task: Designed first implementation of native ads
 
 
 Software Engineer, `Eau de Web`_
@@ -40,6 +46,7 @@ Software Engineer, `Eau de Web`_
   (IT networking and public systems) department of the EEA_
 * basic project management with team of 2 - 3 members and one product owner
 
+
 Intern, `Eau de Web`_
 ++++++++++++++++++++++
 
@@ -49,12 +56,24 @@ Intern, `Eau de Web`_
   assurance, software documenting, team member (code review, code documentation,
   code versioning), deployment procedures
 
+
+Intern, DigitalWorld WebShops
+++++++++++++++++++++++++++++++
+
+    Jul 2009 - Sep 2009
+
+* full stack development of tram.ro using a custom 1999 Romanian awarded
+  PHP framework
+* online shop uses the same database as digitalworld.ro, spot.ro
+
+
 Intern, uberVU_
 +++++++++++++++
 
     Jul 2008 - Sep 2008
 
-* Backend Python developer
+* Backend Python developer, in charge with webspiders and API querying
+
 
 Education
 ---------
@@ -89,13 +108,20 @@ Skills
 
 * Python_, Zope_, Django_, Flask_; Bash scripting, PHP_
 * mongoDB_, ZODB_, OpenLDAP_; MySQL_
-* JavaScript, jQuery_, XHTML, CSS
+* JavaScript, jQuery_, AngularJS_, some nodejs libraries or frameworks
+  (express_, Mongoose_)
+
+  Testing
+
+* js: mocha_, karma_, jasmine_, sinonjs_, proxyquire_, shouldjs_
+* py: unittest_, mock_, selenium_
+* Jenkins_
 
   Devs and DevOps Tools
 
 * git_, Subversion_, git-svn
-* Fabric_, Supervisor_, virtualenv_, South_, Celery_
-* Jenkins_
+* honcho_ (Foreman_), Fabric_, Supervisor_, virtualenv_, South_, Celery_
+* gruntjs_, gulp_
 
   Some experience in
 
@@ -104,18 +130,41 @@ Skills
 Own work
 --------
 
-`ikonom.ro`_
-+++++++++++++
+`journeh.com`_, 2015
++++++++++++++++++++++++++++++++++
+* uses meanjs_ MVC stack from meanjs.org
+* Mongoose ORM and express for simple REST API
+* Async tasks with rabbitmq_ using amqp_ client from nodejs
+* backend mocha_ tests, mocking and stubbing with sinonjs_ and proxyquire_,
+  asserting using shouldjs_
+* some lodash_ for functional programming approach
+* kriskowal/Q_ for interfacing to promises (nodejs)
+* some frontend controller testing using jasmine_
+* secure deployment on Amazon EC2, configuration of S3 and Cloudfront
+
+`ikonom.ro`_, 2012
+++++++++++++++++++
 
 * Romanian webapp analyzes electronic bank statements and
   adds semantics to expenses
 * co-founder, technical development and product management
+* Django backend, jQuery driven frontend
+
+
+`fotolitera.ro`_, 2006
+++++++++++++++++++++++
+* custom PHP user-generated content platform - deviantart-like community
+  for Romanians
+
+Other side projects
++++++++++++++++++++++
+* `Stealth-YouTube`_, 2015 - Chrome extension that disguises YouTube
+
 
 
 Other info
 ----------
 
-* some experience with nodejs, express, rabbitmq, meanjs_ stack
 * fast learner, solving complex problems, analytical thinking
 * passionate of film photography, stock photos, gym
 * highly sociable, always got along very well with all mates
@@ -177,3 +226,25 @@ Vladimir, Dan and Dragos - uberVU co-founders
 .. _appnexus: http://appnexus.com/
 .. _IPONWEB: http://www.iponweb.com/
 .. _meanjs: http://www.meanjs.org/
+.. _`journeh.com`: https://github.com/mihneasim/journeh/
+.. _honcho: https://honcho.readthedocs.org/
+.. _Foreman: https://github.com/ddollar/foreman
+.. _sinonjs: http://sinonjs.org/
+.. _proxyquire: https://github.com/thlorenz/proxyquire
+.. _jasmine: http://jasmine.github.io/
+.. _shouldjs: http://shouldjs.github.io
+.. _mocha: http://mochajs.org
+.. _karma: http://karma-runner.github.io/
+.. _Mongoose: http://mongoosejs.com
+.. _express: http://expressjs.com/
+.. _gruntjs: http://gruntjs.com/
+.. _gulp: http://gulpjs.com/
+.. _Q: https://github.com/kriskowal/q
+.. _lodash: https://lodash.com/
+.. _`Stealth-YouTube`: https://github.com/danielstockton/stealth-youtube
+.. _unittest: https://docs.python.org/2/library/unittest.html
+.. _mock: http://www.voidspace.org.uk/python/mock/
+.. _selenium: http://www.seleniumhq.org/
+.. _rabbitmq: https://www.rabbitmq.com/
+.. _amqp: https://github.com/postwait/node-amqp
+.. _`fotolitera.ro`: http://fotolitera.ro
