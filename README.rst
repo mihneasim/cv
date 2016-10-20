@@ -11,27 +11,35 @@ Mihnea Simian
 Summary
 ---------
 
-Full stack webdeveloper with an eye for details, transitioning from backend
-to frontend. Love
-talking to customers, building together added value and making sure we
-achieve our goals by high quality management and execution.
+5 years Python backend, 2 years and counting AngularJs frontend.
+
+Both perfectionist and practicalist. Big fond of unix/vim/git(cli)/ack.
+Passionate photographer.
 
 Experience
 -----------
 
-Software Engineer, Programmatic media trading
+Front-End Engineer, I.N.G. Bank Romania
 +++++++++++++++++++++++++++++++++++++++++++++
 
-    Jan 2014 - present
+    Sep 2015 - Present
 
-* Programmatic media selling platform
-* Web development, backend and frontend 80-20 % (Django_, Tastypie_, AngularJS_)
+* TBC
+
+Software Engineer, `Charge Ads`_
++++++++++++++++++++++++++++++++++++++++++++++
+
+    Jan 2014 - Jul 2015
+
+* Programmatic media trading platform
+* Web development, backend-frontend 80-20 % (Django_, Tastypie_, AngularJS_)
 * Integration with various real time bidding adservers (appnexus_, IPONWEB_)
-* Shaped up a new team to work using continuous integration methodologies
-  from 20 broken tests to 100+ passing tests
-* migrated data and remapped procedures for a robust architecture (merged
+* Shaped up a new team to work using continuous integration methodologies.
+  Starting with 20 broken tests, then up to 100+ passing tests
+* Migrated data and remapped procedures for a robust architecture (merged
   databases ensuring foreign key consistency and data de-duplication)
-* last task: Designed first implementation of native ads
+* My last task here: in-house design of native ads on top of
+  existing architecture
 
 
 Software Engineer, `Eau de Web`_
@@ -57,14 +65,14 @@ Intern, `Eau de Web`_
   code versioning), deployment procedures
 
 
-Intern, DigitalWorld WebShops
+Intern, DigitalWorld E-shops
 ++++++++++++++++++++++++++++++
 
     Jul 2009 - Sep 2009
 
 * full stack development of tram.ro using a custom 1999 Romanian awarded
   PHP framework
-* online shop uses the same database as digitalworld.ro, spot.ro
+* A-B e-shops that use the same business logic (digitalworld.ro, spot.ro)
 
 
 Intern, uberVU_
@@ -248,3 +256,4 @@ Vladimir, Dan and Dragos - uberVU co-founders
 .. _rabbitmq: https://www.rabbitmq.com/
 .. _amqp: https://github.com/postwait/node-amqp
 .. _`fotolitera.ro`: http://fotolitera.ro
+.. _`Charge Ads`: https://www.chargeads.com
