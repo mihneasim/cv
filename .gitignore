@@ -1,1 +1,8 @@
-/Mihnea Simian.pdf
+Mihnea Simian.pdf
+
+# if virtualenv used dropped in project root
+bin
+lib
+include
+.Python
+pip-selfcheck.json
