@@ -14,17 +14,24 @@ Summary
 5 years Python backend, 2 years and counting AngularJs frontend.
 
 Both perfectionist and practicalist. Big fond of unix/vim/git(cli)/ack.
-Passionate photographer.
+Mac user. Passionate photographer.
 
 Experience
 -----------
 
-Front-End Engineer, I.N.G. Bank Romania
+Front-End Engineer, `I.N.G. Bank Romania`_
 +++++++++++++++++++++++++++++++++++++++++++++
 
     Sep 2015 - Present
 
-* TBC
+* Responsive AngularJs app, close to a hybrid application, used by digital
+  native Romanian clients on various devices
+* In charge with front-end components development, some Jenkins, grunt and
+  fortify, debugging on devices, integrating with Js-Native extensions,
+  project build process, test harness setup for front-end testing,
+  candidates scanning
+* Participated to the group's incubator, the project nearly made it to the
+  final stage, learned about customer journey and building an early MVP
 
 Software Engineer, `Charge Ads`_
 +++++++++++++++++++++++++++++++++++++++++++++
@@ -106,7 +113,7 @@ University Politehnica of Bucharest
 * Thesis: Internationalization for Zope based portals (Naaya)
 * Courses: Electronics, Computer hardware, Hardware Programming, Advanced
   Mathematics, Numerical Methods, Low and High Level Software development,
-  Networking
+  Algorithms, Programming Paradigms, Networking,
 
 
 Skills
@@ -174,8 +181,8 @@ Other info
 ----------
 
 * fast learner, solving complex problems, analytical thinking
-* passionate of film photography, stock photos, gym
-* highly sociable, always got along very well with all mates
+* hobbies include photography, gym, reading
+* highly sociable, always got along well in various environments
 
 References
 ----------
@@ -227,8 +234,8 @@ Vladimir, Dan and Dragos - uberVU co-founders
 .. _Foursquare: https://foursquare.com/mihneasim
 .. _Github: https://github.com/mihneasim
 .. _`this CV`: https://github.com/mihneasim/cv
-.. _MongoDB DBA: https://github.com/mihneasim/cv/raw/master/static/refs/10gen_mongodb_dba_certificate.pdf
-.. _MongoDB dev: https://github.com/mihneasim/cv/raw/master/static/refs/10gen_mongodb_dev_certificate.pdf
+.. _`MongoDB DBA`: https://github.com/mihneasim/cv/raw/master/static/refs/10gen_mongodb_dba_certificate.pdf
+.. _`MongoDB dev`: https://github.com/mihneasim/cv/raw/master/static/refs/10gen_mongodb_dev_certificate.pdf
 .. _AngularJS: https://angularjs.org/
 .. _Tastypie: https://django-tastypie.readthedocs.org/en/latest/
 .. _appnexus: http://appnexus.com/
@@ -257,3 +264,4 @@ Vladimir, Dan and Dragos - uberVU co-founders
 .. _amqp: https://github.com/postwait/node-amqp
 .. _`fotolitera.ro`: http://fotolitera.ro
 .. _`Charge Ads`: https://www.chargeads.com
+.. _`I.N.G. Bank Romania`: https://www.ing.ro/
